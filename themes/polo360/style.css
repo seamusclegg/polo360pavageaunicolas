@@ -1,0 +1,21 @@
+#header a{
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #666666;
+}
+#header h6{
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: normal;
+  color: #cccccc;
+  font-size: 10px;
+}
+#slide {
+  background-color: #333333;
+}
+#titre h1{
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+}
