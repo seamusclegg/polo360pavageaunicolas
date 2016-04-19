@@ -41,3 +41,9 @@ footer a::before{
 ul li a{
   float:left;
 }
+a:hover{
+  color: #00ef45;
+  text-decoration: none;
+  text-transform: lowercase;
+  background-color: #cccccc;
+}
