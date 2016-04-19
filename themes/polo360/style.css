@@ -38,3 +38,6 @@ footer a::before{
 #ahome::before{
   content:'' ;
 }
+ul li a{
+  float:left;
+}
